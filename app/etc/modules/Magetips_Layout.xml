@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+  <config>
+    <global>
+      <blocks>
+        <catalog>
+          <rewrite>
+            <navigation>Magetips_Catalog_Block_Navigation</navigation>
+          </rewrite>
+        </catalog>
+      </blocks>
+    </global>
+</config>
